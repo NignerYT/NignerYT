@@ -1,4 +1,7 @@
 ### Olá, me chamo NignerYT/george
+
+![Status](https://github-readme-stats.vercel.app/api?username=NignerYT&show_icons=true&theme=radical)
+
 ### Seja bem-vindo ao meu perfil
 
 [![Site](https://img.shields.io/website?label=anonimygs.com&style=for-the-badge&url=https://anonimygs.com/)](https://anonimygs.com)
