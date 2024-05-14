@@ -4,7 +4,7 @@
 [![Site](https://img.shields.io/website?label=anonimygs.com&style=for-the-badge&url=https://anonimygs.com/)](https://anonimygs.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/georgehenrique433)
 
-## Tecnologias que eu uso no meu dia
+## Liguagem que uso no meu dia-dia
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
