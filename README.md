@@ -5,7 +5,6 @@
 
 ### Seja bem-vindo ao meu perfil
 
-[![Site](https://img.shields.io/website?label=anonimygs.com&style=for-the-badge&url=https://anonimygs.com/)](https://anonimygs.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/georgehenrique433)
 
 ## Liguagem que uso no meu dia-dia
